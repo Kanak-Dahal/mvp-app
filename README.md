@@ -35,20 +35,6 @@ A Streamlit-based interactive web application that applies Modern Portfolio Theo
 
 ---
 
-## 🖥️ Screenshots
-
-| Portfolio Selection & Analysis | Efficient Frontier |
-|:------------------------------:|:------------------:|
-| ![Selection](./screenshots/selection.png) | ![Eff Frontier](./screenshots/frontier.png) |
-
-| Forecasting with LSTM |
-|:---------------------:|
-| ![Forecast](./screenshots/forecast.png) |
-
-*(Note: add screenshots in a `screenshots` folder for these to work)*
-
----
-
 ## 📦 Installation
 
 1. Clone the repository
